@@ -68,7 +68,7 @@ const Login = () => {
             >
                 <div className={classes.logo}>
                     <img src="./vite.svg" />
-                    <span className='text-3xl font-bold  text-cyan-700'>Samvaad</span>
+                    <span className='text-3xl font-bold  text-cyan-700'>Vartalapp</span>
                 </div>
 
 

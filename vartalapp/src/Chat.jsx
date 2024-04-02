@@ -195,7 +195,7 @@ const Chat = () => {
             <div className={styles.left}>
                 <div className=" flex bg-gray-100 mb-10 shadow-sm p-4  pl-8 rounded-md align-middle gap-2">
                     <img src="./vite.svg" />
-                    <span className='text-2xl  font-bold  text-gray-700'>Samvaad</span>
+                    <span className='text-2xl  font-bold  text-gray-700'>Vartalapp</span>
                 </div>
                 <br />
                 <br />
