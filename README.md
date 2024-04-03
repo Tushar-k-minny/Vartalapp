@@ -1,7 +1,7 @@
 
 # Vartalapp
 
-Vartalapp is a communtiy based chat application created using MERN Stack.
+Vartalapp is a community based chat application created using MERN Stack.
 
 
 
@@ -25,30 +25,29 @@ Vartalapp is a communtiy based chat application created using MERN Stack.
 
 
 ## Installation
+ **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/Tushar-k-minny/Vartalapp
+    ```
+
+    
 ### Frontend
 Follow these steps to set up and run the project on your local machine:
 
-1. **Clone the repository:**
-
-    ```bash
-    git clone <repository-url>
-    ```
-
-    Replace `<repository-url>` with the URL of your GitHub repository.
-
-2. **Navigate to the project directory:**
+1. **Navigate to the project directory:**
 
     ```bash
     cd vartalapp
     ```
 
-3. **Install dependencies:**
+2. **Install dependencies:**
 
     ```bash
     npm install
     ```
 
-4. **Start the development server:**
+3. **Start the development server:**
 
     ```bash
     npm run dev
@@ -56,33 +55,26 @@ Follow these steps to set up and run the project on your local machine:
 
     This command runs the Vite development server.
 
-5. **Open your web browser and navigate to [http://localhost:5173](http://localhost:5173) to view the app.**
+4. **Open your web browser and navigate to [http://localhost:5173](http://localhost:5173) to view the app.**
 
 
 ### Backend
 Follow these steps to set up and run the backend server on your local machine:
 
-1. **Clone the repository:**
 
-    ```bash
-    git clone <repository-url>
-    ```
-
-    Replace `<repository-url>` with the URL of your GitHub repository.
-
-2. **Navigate to the backend directory:**
+1. **Navigate to the backend directory:**
 
     ```bash
     cd backend
     ```
 
-3. **Install dependencies:**
+2. **Install dependencies:**
 
     ```bash
     npm install
     ```
 
-4. **Start the server:**
+3. **Start the server:**
 
     ```bash
     npm run server
